@@ -16,4 +16,15 @@
 * The following visualization displays the confusion matrix for the predicted model.
 
 
+![Screenshot](confusion_matrix.png)
+
+# Model Performance:
+
+With using Porter Stemmer algorithm:
+  - Training data accuracy ~ 90%
+  - Testing data accuracy ~ 80%
+  
+
+
+
 
