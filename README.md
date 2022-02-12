@@ -18,9 +18,11 @@
 
 ![Screenshot](confusion_matrix.png)
 
+
+
 # Model Performance:
 
-With using Porter Stemmer algorithm:
+The Multinomial Naive Bayes model gave the following results:
   - Training data accuracy ~ 90%
   - Testing data accuracy ~ 80%
   
