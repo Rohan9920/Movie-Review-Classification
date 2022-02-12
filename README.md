@@ -16,7 +16,7 @@
 * The following visualization displays the confusion matrix for the predicted model.
 
 
-![Screenshot](confusion_matrix.png)
+![Screenshot](Confusion_matrix.png)
 
 
 
